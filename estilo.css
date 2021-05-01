@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 3px;
+}
+
+body {
+    background: #dce7ca url('img/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 1102px ;
+}
+
+#menu {
+    background: #c7d7aa;
+    padding: 18px;
+}
+
+#conteudo {
+    background: #e8f0d9;
+    padding: 10px;
+}
+
+a {
+    color: #3f4835;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralisar{
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c9daaa;
+    display:flex;
+    align-items: center;
+}
+
+h1 {
+    color: #4b5a30;
+    font-size: 1.2em;
+}
+
