@@ -10,6 +10,7 @@ body {
 
 #principal {
     width: 1102px ;
+    margin: 10px auto;
 }
 
 #menu {
@@ -37,6 +38,7 @@ a {
     border: 10px solid #c9daaa;
     display:flex;
     align-items: center;
+    margin: 10px auto;
 }
 
 h1 {
